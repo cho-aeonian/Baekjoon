@@ -1,2 +1,1 @@
-a = {'A':'best!!!','B':'good!!','C':'run!','D':'slowly~'}
-a = {'nokey':'what'}
+a = {'A':'best!!!','B':'good!!','C':'run!','D':'slowly~','nokey':'what?'}
